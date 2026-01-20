@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Tutor",
+  "description": "A high-performance, vibrant landing page for a personalized AI tutor platform featuring real-time chat demonstrations and modern UI components.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
